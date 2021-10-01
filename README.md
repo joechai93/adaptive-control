@@ -1,1 +1,2 @@
 # adaptive-control
+A collection of MATLAB scripts from my postgraduate studies and research. None of these are earth-shatteringly novel. They are just implementations of existing adaptive control techniques.
